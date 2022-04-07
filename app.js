@@ -11,3 +11,7 @@ const sayGoodBye = () => {
 const decirHola = () => {
   return "¡Hola, ¿cómo estás?";
 }
+
+const sayHi = () => {
+  return "Hi!"
+}
