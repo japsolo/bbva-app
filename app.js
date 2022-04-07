@@ -7,3 +7,7 @@ const sayHello = () => {
 const sayGoodBye = () => {
  return "Good Bye!";
 }
+
+const sayHi = () => {
+  return "Hi!"
+}
